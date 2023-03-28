@@ -1,0 +1,36 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=11238
+END=13715
+title=Cookies cy.getCookie() - get a browser cookie
+[CHAPTER]
+TIMEBASE=1/1000
+START=14289
+END=16275
+title=Cookies cy.getCookies() - get browser cookies for the current domain
+[CHAPTER]
+TIMEBASE=1/1000
+START=17396
+END=18296
+title=Cookies cy.getAllCookies() - get all browser cookies
+[CHAPTER]
+TIMEBASE=1/1000
+START=18430
+END=19241
+title=Cookies cy.setCookie() - set a browser cookie
+[CHAPTER]
+TIMEBASE=1/1000
+START=17525
+END=20068
+title=Cookies cy.clearCookie() - clear a browser cookie
+[CHAPTER]
+TIMEBASE=1/1000
+START=20800
+END=22615
+title=Cookies cy.clearCookies() - clear browser cookies for the current domain
+[CHAPTER]
+TIMEBASE=1/1000
+START=21377
+END=24448
+title=Cookies cy.clearAllCookies() - clear all browser cookies
